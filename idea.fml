@@ -1,0 +1,23 @@
+Title: My Idea For a Flowchart Markup Language (v1.0.0)
+
+1: Invent a new markup language
+	1.1: Refine the language
+	1.3: Test the language
+	1.4: Is this a good language?
+		Yes: Go to 2
+		No: Go to 1
+	
+
+2: Push the new markup language to GitHub
+	2.1: Wait for issues
+		2.1.1: If bug is reported
+			- Is it valid?
+				Yes: Go to 1.1
+				No: Close the issue
+		2.1.2: If pull request is submitted
+			- Is it useful?
+				Yes: Merge the request
+				No: Close the issue
+
+3: Find a bug, yourself
+	3.1: Go to 2.1.1.1 
